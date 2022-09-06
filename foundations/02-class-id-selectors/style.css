@@ -1,0 +1,19 @@
+.pinky {
+    background-color: rgb(178, 104, 128);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.third {
+    font-size: 24px;
+}
+
+#second {
+    color: rgb(32, 124, 167);
+    font-size: 36px;
+}
+
+#fourth {
+    font-size: 24px;
+    background-color: rgb(73, 151, 65, 0.461);
+    font-weight:bold;
+}
